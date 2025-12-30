@@ -3,8 +3,8 @@
        "advertiser":"#create-advertiser",
        "advertiserList":"#option-list-create-advertiser",
        "campaignName":"#create-name",
-       "createProposalButton":"",
-       "cancelProposalButton":""
+       "createProposalButton":"test 123",
+       "cancelProposalButton":"test 1234"
 
     }
 
