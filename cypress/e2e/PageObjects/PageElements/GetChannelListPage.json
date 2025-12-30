@@ -1,0 +1,11 @@
+{
+    "CreatePageLocators":{
+       "advertiser":"#create-advertiser",
+       "advertiserList":"#option-list-create-advertiser",
+       "campaignName":"#create-name",
+       "createProposalButton":"",
+       "cancelProposalButton":""
+
+    }
+
+}
